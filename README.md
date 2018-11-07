@@ -10,6 +10,14 @@ Fork and clone repo.
 yarn install
 ```
 
+* Starting the server
+
+```bash
+grunt connect
+```
+
+* visit localhost:4000 in a web browser
+
 ## Running the tests
 
 Currently no tests. TBD...
